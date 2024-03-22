@@ -1,4 +1,4 @@
-![logo-OYJ34ERC](https://github.com/DanielAndres1116/Analisis-y-asesoramiento-de-negocio-E-Commerce/assets/43154438/e9e9d29e-28c6-4f36-a8be-509ca4038ba7)# Analisis-y-asesoramiento-de-negocio-E-Commerce
+# Analisis-y-asesoramiento-de-negocio-E-Commerce
 
 En este proyecto se realizó el análisis de datos para un emprendimiento de una vendedora de productos de distintas categorías quien utiliza una plataforma llamada Elenas, empresa que se encarga de facilitar la venta y distribución de los productos a los consumidores finales por medio de sus Embajadoras (mujeres que tienen el contacto directo con los clientes y venden finalmente los productos). 
 
